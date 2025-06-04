@@ -138,3 +138,8 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+   <p style="margin-left: 25rem; margin-top: 1.2rem;">Created by <a href="https://github.com/pimatis">Pimatis Labs</a></p>
+   <img src="https://www.upload.ee/image/17796243/logo.png" alt="PiContent Logo" width="30" style="opacity: 0.2; position: absolute;">
+</div>
